@@ -3,7 +3,7 @@ A Spring Boot web application for managing students, built with Java, Thymeleaf,
 
 
 ## 📌 Project Overview
-You are responsible for building part of the backend (viewing and deleting student records) and designing the main student list page on the frontend using Thymeleaf and Bootstrap.
+I am responsible for building part of the backend (viewing and deleting student records) and designing the main student list page on the frontend using Thymeleaf and Bootstrap.
 
 
 ## Features
